@@ -1,2 +1,2 @@
 # cad-models
-cad models, drawings, and assemblies
+hardware design is an art
