@@ -17,7 +17,7 @@ results using ansys are demonstrated in the screenshots below. files in the fold
 * mesh of restricted fluid flow
 <img width="631" height="311" alt="image" src="https://github.com/user-attachments/assets/d0ad3a2c-fca2-438b-aed3-a847f9e4ffa0" />
 
-* flow over a sphere
+* fluid flow over a sphere
 <img width="767" height="337" alt="image" src="https://github.com/user-attachments/assets/fead1ede-8543-4575-8861-d7d074b79439" />
 
 * vibration of a cantilever beam
