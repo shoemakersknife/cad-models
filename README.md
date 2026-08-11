@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/65110236-6e5b-4a66-8187-fd24522c38b8
 ## [toy plane](/plane)
 https://github.com/user-attachments/assets/5ed9c91f-54a7-4098-922f-2b15a55da2aa
 
-## ansys
+## [ansys](/ansys)
 
 results using ansys are demonstrated in the screenshots below. files in the folder are mostly matlab scripts for producing graphs of ansys outputs.
 
