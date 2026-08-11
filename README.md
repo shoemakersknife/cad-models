@@ -14,3 +14,7 @@ https://github.com/user-attachments/assets/5ed9c91f-54a7-4098-922f-2b15a55da2aa
 * mesh of restricted fluid flow
 <img width="631" height="311" alt="image" src="https://github.com/user-attachments/assets/d0ad3a2c-fca2-438b-aed3-a847f9e4ffa0" />
 
+* flow over a sphere
+<img width="767" height="337" alt="image" src="https://github.com/user-attachments/assets/fead1ede-8543-4575-8861-d7d074b79439" />
+
+
